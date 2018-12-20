@@ -1,0 +1,55 @@
+li a:hover	{
+	background-color: rgba(200,200,200,200);
+}
+ul	{
+	font-family: "Arial", Times, serif;
+}
+#Índice {
+	background-color: rgba(150,150,150,150);
+}
+
+#Tudo {
+	background-color: rgba(200,200,200,200);
+	font-family: "Arial", Times, serif;
+}
+
+#wikipedia {
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+}
+
+#Top {
+	list-style-type: none;
+	padding-left: 20px;
+	margin: 20px;
+	overflow: hidden;
+}
+#novak {
+	border-radius: 50%;
+	height: 300px;
+	width: 300px;
+}
+#rafael {
+	border-radius: 50%;
+	height: 300px;
+	width: 300px;
+}
+#roger {
+	border-radius: 50%;
+	height: 300px;
+	width: 300px;
+}
+#alexander {
+	border-radius: 50%;
+	height: 300px;
+	width: 300px;
+}
+#juan {
+	border-radius: 50%;
+	height: 300px;
+	width: 300px;
+}
+#raquete {
+	height: 70px;
+}

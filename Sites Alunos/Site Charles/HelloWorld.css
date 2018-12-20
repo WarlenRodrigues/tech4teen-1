@@ -1,0 +1,145 @@
+body {
+	background-color: rgba(0,0,255,1);
+	font-family:"Arial",Times, serif;
+	padding:25px;
+  	}
+  	h1 {
+	text-align: center;
+	color: white;
+}
+p {
+	padding: 20px;
+	margin: 35px;
+	border-width: 2px;
+	border-style: dashed;
+}
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 20px;
+	overflow: hidden;
+}
+ul li {
+	float: left;
+}
+li a {
+	display: block;
+	color: white;
+	font-style: bold;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: rgba(0,0,0,0.8);
+}
+.list_item{
+	font-weight:bold;
+	font-style: italic;
+}
+#WBFC{
+    border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#BH2{
+    border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#GKP{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#SHELL{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#CAKE{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#BOB{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#COBRA{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#SANDALIA{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#LAVA{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#AGE{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#TOWER{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#MAYHEM{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+#HERO{
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	margin-right: 1%;
+	margin-bottom: 0px;
+}
+
+figcaption{
+	color: white;
+}
+
+
+
+}
+ol{
+	float: left;
+}
+
+
+
+

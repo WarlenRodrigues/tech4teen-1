@@ -1,0 +1,63 @@
+body {
+	background-color: rgba(250, 250, 250, 245.9);
+	font-family: "Arial", Times, serif;
+	padding: 25px;
+	color: black;
+	font-style: bold;
+}
+h1 {
+	text-align: center;
+	color: black;
+}
+h5 {
+	text-align: center;
+	color: black;
+
+}
+
+h6 {
+	text-align: center;
+	color: black;
+}
+
+p{
+	padding: 35px;
+	margin: 50px;
+	border-width: 2px;
+	border-style: dotted;
+	color: black;
+	float: left;
+}
+
+img{
+	float: right;
+	height: 80px;
+	width: 80px;
+}
+
+#matias{
+	width: 500px;
+	height: auto;
+	float: center;
+	margin-right:385px; 
+
+}
+
+#richard{
+	width: 500px;
+	height: auto;
+	float: center;
+	margin-right:385px;
+}
+
+#sornoza{
+	width: 500px;
+	height: auto;
+	float: center;
+	margin-right:385px;
+}
+
+
+
+
+

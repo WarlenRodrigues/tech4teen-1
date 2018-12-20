@@ -1,0 +1,30 @@
+#fifa {
+	height: 1000px;
+	width: 1000px;
+	margin-right: 120px;
+	margin-bottom: 70px;
+}
+
+
+.card:hover {
+	background-color: black;
+	color: white;
+}
+
+#oi {
+	height: 525px;
+	width: 610px;
+	margin-right: 120px;
+	margin-bottom: 70px;
+}
+
+#ben {
+	font-family: "Arial", Times, serif;
+}
+
+#jovens {
+	height: 525px;
+	width: 610px;
+	margin-right: 120px;
+	margin-bottom: 70px;
+}

@@ -1,0 +1,76 @@
+body {
+	background-color: rgba(0, 0, 0, 0.9);
+	font-family: "Arial", Times, serif;
+	padding: 25px;
+	color: white;
+}
+h1 {
+	text-align: center;
+	color: black;
+}
+
+p{
+	padding: 20px;
+	margin: 35px;
+	border-width: 2px;
+	border-style: double;
+	color: black;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 20px;
+	overflow: hidden;
+}
+
+ul li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: black;
+	font-style: bold;
+	text-align: left;
+	padding: 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: rgba(0,0,0,0.8);
+}
+
+
+
+.list_item {
+	font-weight: bold;
+	font-style: italic;
+}
+
+#apple {
+	font-size: 35px;
+}
+
+#vem_pro_fut {
+	border: 5px solid black;
+	height: 30%;
+	width: 30%;
+	margin-right: 120px;
+	margin-bottom: 70px;
+}
+
+ol {
+	float: left;
+}
+
+#timao {
+	height: 100%;
+	width:100%;
+	float: center;
+}
+
+#titi {
+	float: right;
+	height: 60%
+}

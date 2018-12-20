@@ -1,0 +1,18 @@
+.musicas{
+	width: 350px;
+	height: 350px;
+}
+
+img	{
+	border-radius: 25%;
+}
+
+img:hover {
+opacity: 0.65;
+-moz-opacity: 0.65;
+filter: alpha(opacity = 65);
+}
+
+h3{
+	text-align: center;
+}

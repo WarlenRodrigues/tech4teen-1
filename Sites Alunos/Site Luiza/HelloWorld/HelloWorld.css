@@ -1,0 +1,81 @@
+body	{
+	background-color: rgba(200,200,200,200 );
+font-family: "Arial",Times, serif;
+padding:25px;
+}
+
+h1 {
+	text-align: :  center;
+	color : black;
+}
+
+p {
+padding:20px;
+margin: 35 px;
+border-width: 10px;
+border-style: dotted;
+}
+
+ul	{
+	list-style: none;
+	padding: 0;
+	margin: 20px;
+	overflow: hidden;
+}
+
+ul li {
+ float: center;
+}
+
+li a {
+	display: block;
+	color: white;
+	font-style: bold;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: rgba(0,0,0,0.8);
+}
+.list_item{
+	font-weight: bold;
+	font-style: italic;
+}
+
+#apple	{
+	font-size: 35px;
+}
+
+#imagem{
+	border: 10px solid white;
+	height: 10px;
+	width: 30%;
+}
+
+ol { float:left; }
+
+img {float: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

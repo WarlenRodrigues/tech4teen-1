@@ -1,0 +1,88 @@
+.imagem_educador{
+	border-radius: 50%;
+	height: 120px;
+	width: 120px;
+	display:inline-block;
+	float: left;
+	margin-right: 35px;
+}
+
+ul {
+  list-style-type: none;
+  display: inline;
+}
+
+h1	{
+	text-align: center;
+}
+
+.inline_li {
+display:inline:block;
+margin: 10px;
+margin-bottom: 50px;
+}
+
+#warlen_educador{
+	margin-left: 200px; 
+}
+
+.card {
+	color: white !important;
+}
+
+.jumbotron {
+	margin-top: 50px;
+}
+
+.navbar img{
+	height: 50px;
+	width: auto;
+}
+
+.navbar {
+	background-color: rgba(255,255,255,0.8);
+}
+
+#programas img {
+	margin: 0px 50px;
+	width: 175px;
+	height: auto;
+}
+
+#programas{
+	align-content: center;
+	text-align: center;
+	display: inline-block;
+}
+
+body {
+	background-color: #00cc00;
+	color: white;
+}
+
+#alunos {
+	background-color: white;
+	color: black;
+}
+
+#projetos {
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+}
+
+#jumbo {
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 35px;
+	color: black
+}
+
+#caixa1 {
+	background-color: rgba(255,255,255,0.8);
+	color: black;
+}
+
+#outros {
+	background-color: rgba(255,255,255,0.8);
+	color: black;
+	padding: 35px;
+}
